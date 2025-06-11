@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! eu sou Ronaldo Pereira
 
-<!--
-**Eu-Mesmo-Roh/Eu-Mesmo-Roh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 Hoje estou estudando Ciência da Computação na UFPR
+- 😀 pronomes: ele/dele
+- 🎂 idade: 20 anos
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Eu-Mesmo-Roh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eu-Mesmo-Roh&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eu-Mesmo-Roh&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://raw.githubusercontent.com/Eu-Mesmo-Roh/Eu-Mesmo-Roh/output/snake.svg" alt="Snake animation" />
