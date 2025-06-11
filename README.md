@@ -1,4 +1,4 @@
-## Olá! eu sou Ronaldo Pereira
+## Olá! Eu sou Ronaldo Pereira
 
 - 🧑🏽‍💻 Hoje estou estudando Ciência da Computação na UFPR
 - 😀 pronomes: ele/dele
