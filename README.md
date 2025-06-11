@@ -1,8 +1,7 @@
 ## Olá! Eu sou Ronaldo Pereira
 
 - 🧑🏽‍💻 Hoje estou estudando Ciência da Computação na UFPR
-- 😀 pronomes: ele/dele
-- 🎂 idade: 20 anos
+- 🎂 Idade: 20 anos
 
 <div>
   <a href="https://github.com/Eu-Mesmo-Roh">
