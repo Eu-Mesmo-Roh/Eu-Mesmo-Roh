@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ronaldo Pereira
 
 - 🧑🏽‍💻 Hoje estou estudando Ciência da Computação na UFPR
-- 🎂 Idade: 20 anos
+- 🎂 Idade: 21 anos
 
 <div>
   <a href="https://github.com/Eu-Mesmo-Roh">
