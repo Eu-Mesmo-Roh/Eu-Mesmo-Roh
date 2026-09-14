@@ -10,7 +10,7 @@ Estudante de Ciência da Computação na Universidade Federal do Paraná (UFPR) 
 
 ---
 
-### 📊 Estatísticas & Tecnologias
+### 📊 Estatísticas & Linguagens
 
 <img
   align ="left"
